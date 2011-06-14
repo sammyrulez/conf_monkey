@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="django.contrib.auth.tests.auth_backends.NoAnonymousUserBackendTest" tests="4" time="0.003">
+	<testcase classname="django.contrib.auth.tests.auth_backends.NoAnonymousUserBackendTest" name="test_get_all_permissions" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.auth_backends.NoAnonymousUserBackendTest" name="test_has_module_perms" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.auth_backends.NoAnonymousUserBackendTest" name="test_has_perm" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.auth_backends.NoAnonymousUserBackendTest" name="test_has_perms" time="0.001"/>
+	<system-out/>
+	<system-err/>
+</testsuite>

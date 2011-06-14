@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="django.contrib.auth.tests.views.LoginURLSettings" tests="5" time="0.004">
+	<testcase classname="django.contrib.auth.tests.views.LoginURLSettings" name="test_https_login_url" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.views.LoginURLSettings" name="test_login_url_with_querystring" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.views.LoginURLSettings" name="test_remote_login_url" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.views.LoginURLSettings" name="test_remote_login_url_with_next_querystring" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.views.LoginURLSettings" name="test_standard_login_url" time="0.001"/>
+	<system-out/>
+	<system-err/>
+</testsuite>

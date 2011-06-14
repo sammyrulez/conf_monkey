@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="django.contrib.sessions.tests.DatabaseSessionTests" tests="27" time="0.021">
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_clear" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_custom_expiry_datetime" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_custom_expiry_reset" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_custom_expiry_seconds" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_custom_expiry_timedelta" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_cycle" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_decode" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_default_expiry" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_delete" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_flush" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_get_empty" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_get_expire_at_browser_close" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_has_key" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_invalid_key" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_iteritems" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_iterkeys" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_itervalues" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_new_session" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_pop" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_pop_default" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_save" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_session_get_decoded" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_sessionmanager_save" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_setdefault" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_store" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_update" time="0.001"/>
+	<testcase classname="django.contrib.sessions.tests.DatabaseSessionTests" name="test_values" time="0.001"/>
+	<system-out/>
+	<system-err/>
+</testsuite>

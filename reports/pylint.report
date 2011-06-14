@@ -1,0 +1,28 @@
+conf_monkey.cm_subscription:1: [F0001] No module named conf_monkey.cm_subscription
+/Library/Python/2.6/site-packages/django/contrib/auth/__init__.py:63: [W0511] TODO: It would be nice to support different login methods, like signed cookies.
+/Library/Python/2.6/site-packages/django/contrib/auth/__init__.py:32: [W0404, get_backends] Reimport 'settings' (imported line 4)
+/Library/Python/2.6/site-packages/django/contrib/auth/__init__.py:92: [W0404, logout] Reimport 'AnonymousUser' (imported line 4)
+/Library/Python/2.6/site-packages/django/contrib/auth/__init__.py:96: [W0404, get_user] Reimport 'AnonymousUser' (imported line 4)
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:94: [C0301] Line too long (208/160)
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:76: [W0404, UserAdmin.get_urls] Reimport 'patterns' (imported line 6)
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:105: [W0622, UserAdmin.user_change_password] Redefining built-in 'id'
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:105: [C0103, UserAdmin.user_change_password] Invalid name "id" (should match [a-z_][a-z0-9_]{2,30}$)
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:105: [C0103, UserAdmin.user_change_password] Invalid name "id" (should match [a-z_][a-z0-9_]{2,30}$)
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:120: [C0103, UserAdmin.user_change_password] Invalid name "adminForm" (should match [a-z_][a-z0-9_]{2,30}$)
+/Library/Python/2.6/site-packages/django/contrib/auth/admin.py:112: [W0612, UserAdmin.user_change_password] Unused variable 'new_user'
+/Library/Python/2.6/site-packages/django/contrib/auth/backends.py:13: [W0511] TODO: Model, login attribute name and password attribute name should be
+/Library/Python/2.6/site-packages/django/contrib/auth/backends.py:83: [W0221, RemoteUserBackend.authenticate] Arguments number differs from overridden method
+/Library/Python/2.6/site-packages/django/contrib/auth/backends.py:1: [W0611] Unused import connection
+/Library/Python/2.6/site-packages/django/contrib/auth/context_processors.py:40: [W0404, auth] Reimport 'AnonymousUser' (imported line 4)
+/Library/Python/2.6/site-packages/django/contrib/auth/decorators.py:29: [W0404, user_passes_test.decorator._wrapped_view] Reimport 'redirect_to_login' (imported line 4)
+/Library/Python/2.6/site-packages/django/contrib/auth/forms.py:57: [C0103, UserChangeForm.__init__] Invalid name "f" (should match [a-z_][a-z0-9_]{2,30}$)
+/Library/Python/2.6/site-packages/django/contrib/auth/forms.py:128: [W0404, PasswordResetForm.save] Reimport 'send_mail' (imported line 6)
+/Library/Python/2.6/site-packages/django/contrib/auth/forms.py:136: [C0103, PasswordResetForm.save] Invalid name "t" (should match [a-z_][a-z0-9_]{2,30}$)
+/Library/Python/2.6/site-packages/django/contrib/auth/forms.py:137: [C0103, PasswordResetForm.save] Invalid name "c" (should match [a-z_][a-z0-9_]{2,30}$)
+/Library/Python/2.6/site-packages/django/contrib/auth/forms.py:115: [W0201, PasswordResetForm.clean_email] Attribute 'users_cache' defined outside __init__
+/Library/Python/2.6/site-packages/django/contrib/auth/middleware.py:14: [C0301] Line too long (230/160)
+/Library/Python/2.6/site-packages/django/contrib/auth/models.py:182: [W0311] Bad indentation. Found 28 spaces, expected 24
+/Library/Python/2.6/site-packages/django/contrib/auth/models.py:207: [C0301] Line too long (166/160)
+/Library/Python/2.6/site-packages/django/contrib/auth/models.py:211: [C0301] Line too long (169/160)
+/Library/Python/2.6/site-packages/django/contrib/auth/models.py:213: [C0301] Line too long (180/160)
+/Library/Python/2.6/site-packages/django/contrib/auth/models.py:214: [C0301] Line too long (173/160)

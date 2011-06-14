@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="django.contrib.messages.tests.cookie.CookieTest" tests="24" time="0.019">
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_add" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_add_lazy_translation" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_add_update" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_custom_tags" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_default_level" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_domain" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_existing_add" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_existing_add_read_update" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_existing_read" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_existing_read_add_update" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_full_request_response_cycle" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_get" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_get_bad_cookie" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_high_level" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_json_encoder_decoder" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_low_level" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_max_cookie_length" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_middleware_disabled" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_middleware_disabled_fail_silently" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_multiple_posts" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_no_update" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_settings_level" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_tags" time="0.001"/>
+	<testcase classname="django.contrib.messages.tests.cookie.CookieTest" name="test_with_template_response" time="0.001"/>
+	<system-out/>
+	<system-err/>
+</testsuite>

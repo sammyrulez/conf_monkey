@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="django.contrib.auth.tests.permissions.TestAuthPermissions" tests="1" time="0.001">
+	<testcase classname="django.contrib.auth.tests.permissions.TestAuthPermissions" name="test_permission_register_order" time="0.001"/>
+	<system-out/>
+	<system-err/>
+</testsuite>

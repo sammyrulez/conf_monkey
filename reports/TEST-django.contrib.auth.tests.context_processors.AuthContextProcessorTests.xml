@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="django.contrib.auth.tests.context_processors.AuthContextProcessorTests" tests="5" time="0.004">
+	<testcase classname="django.contrib.auth.tests.context_processors.AuthContextProcessorTests" name="test_message_attrs" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.context_processors.AuthContextProcessorTests" name="test_perms_attrs" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.context_processors.AuthContextProcessorTests" name="test_session_is_accessed" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.context_processors.AuthContextProcessorTests" name="test_session_not_accessed" time="0.001"/>
+	<testcase classname="django.contrib.auth.tests.context_processors.AuthContextProcessorTests" name="test_user_attrs" time="0.001"/>
+	<system-out/>
+	<system-err/>
+</testsuite>
